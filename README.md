@@ -39,3 +39,21 @@ A fully functional blog platform built with **React.js**, **Tailwind CSS**, and 
    ```bash
    git clone https://github.com/your-username/React-Blog-Project.git
    cd React-Blog-Project
+
+---
+
+## Screenshots
+
+### Signup/User Authentication  
+![User Authentication](./assets/Screenshot%202024-11-01%20203345.png)  
+
+### Home Page  
+![Home Page](./assets/Screenshot%202024-11-01%20212720.png)   
+
+### Blog Creation  
+![Blog Creation](./assets/Screenshot%202024-11-01%20211548.png)  
+
+### Rich Text Editor  
+![Rich Text Editor](./assets/Screenshot%202024-11-01%20204405.png)  
+
+ 
